@@ -8,7 +8,7 @@ Check out my [portofolio](https://leorchen.wixsite.com/eportfolio)!
 
 ### Technologies
 
-*Click a badge to see some projects I've built!*
+*Click an icon to see some projects I've built!*
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/rhit-chenl3?tab=repositories&q=topic%3Ajavascript)
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/rhit-chenl3?tab=repositories&q=topic%3Atypescript) -->
