@@ -4,7 +4,7 @@ My passion for engineering started when I joined the First Robotics Competition 
 
 Having recently graduated from the software engineering course, I excited to see where this path takes me! If you are looking for a driven adept full-stack engineer that loves taking on new challenges please don't hesitate to contact me!
 
-Check out my [portofolio](https://leorchen.wixsite.com/eportfolio) and [LinkedIn](https://www.linkedin.com/in/leo-chen-9195491a3/)!
+Check out my [blog](https://medium.com/@leorchen), [portofolio](https://leorchen.wixsite.com/eportfolio) and [LinkedIn](https://www.linkedin.com/in/leo-chen-9195491a3/)!
 
 ### Technologies
 
