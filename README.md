@@ -2,7 +2,7 @@ Hi, I'm Leo and I'm a full-stack software dev engineer! After realizing my passi
 
 My passion for engineering started when I joined the First Robotics Competition in my junior year of high school. I then completed my bachelor's degree in mechanical engineering at Rose-Hulman Institute of Technology and throughout my senior year I worked on multiple highly-collaborative team projects with clients such as Cummins Turbo Technologies while taking opportunities to hone my skills as a developer. I've built a variety of projects in team-based environments, allowing me to develop effective communication and project management skills.
 
-Having recently graduated from the software engineering course, I excited to see where this path takes me! If you are looking for a driven adept full-stack engineer that loves taking on new challenges please don't hesitate to contact me!
+I'm currently working at Walmart as a Software Engineer II! If you are looking for a driven adept full-stack engineer that loves taking on new challenges please don't hesitate to contact me!
 
 Check out my [blog](https://medium.com/@leorchen), [portofolio](https://leorchen.wixsite.com/eportfolio) and [LinkedIn](https://www.linkedin.com/in/leo-chen-9195491a3/)!
 
